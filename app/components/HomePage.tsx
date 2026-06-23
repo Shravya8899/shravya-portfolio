@@ -238,9 +238,7 @@ return ( <main className="relative min-h-screen overflow-hidden bg-transparent t
             {skill.name}
           </h3>
 
-          <p className="mt-2 text-center text-sm text-slate-400">
-            {skill.desc}
-          </p>
+          
 
         </div>
       </motion.div>
